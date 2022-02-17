@@ -37,7 +37,7 @@ height: 100%;
 .Search_bar{
     position: absolute;
     right: 3%;
-    padding-right: 10.5%;
+    padding-right: 0%;
     padding-top: 2%;
     height: 20px;
     width: 150px;
@@ -82,7 +82,7 @@ height: 100%;
 
 .Right_col{
     width: 15%;
-    height:90%;
+    height:81%;
     margin: 10px;
     display: inline-block;
     border: 2px solid;
@@ -94,7 +94,7 @@ height: 100%;
 
 .Center_col{
     width: 62.5%;
-    height: 90%;
+    height: 81%;
     margin: 10px;
     display: inline-block;
     border: 2px solid;
